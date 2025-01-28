@@ -1,5 +1,5 @@
 SKU: 333128
-Full product name: Benzene, Toluene, Acetone, Formaldehyde sensor MQ138 breakout with easyC
+Full product name: Benzene, Toluene, Acetone, Formaldehyde sensor MQ138 breakout qwiic
 Country of origin: Croatia
-HS tariff code: 85389099
+HS tariff code: 85340090
 EAN/UPC barcode: 732388665709
